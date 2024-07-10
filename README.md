@@ -44,11 +44,11 @@ Group No:8
 Team Members:
 1.Ashok.J
 2.Sivasai Kakarla
-3.M Praneet Gopal
-4.Aneesh Lokray
+3.Aneesh Lokray
+4.M Praneet Gopal
 5.G Harideep
 
-Github link: https://github.com/sivasaikakarla/F1-gas-agency
+Github link: https://github.com/AneeshLokray/F1-Gas-Agency
   
 
 >>>>>>> 5f331ffa2326cf7a43ee73ae667a582baf17fb93
